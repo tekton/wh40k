@@ -7917,7 +7917,7 @@
       <description>If this unit makes a charge move, is charged or performs a Heroic Intervention, add 1 to the Attacks characteristic of models in this unit until the end of the turn.</description>
     </rule>
     <rule id="1ac4-804b-0cf0-0bef" name="Masters of the Warp" publicationId="5591-9a44-175f-5b22" page="66" hidden="false">
-      <description>Units with this ability gain a bonus depending on which of the Tides of the Warp is dominant (see below). If you have a Battle-forged army, units only benefit from this bonus is every unit from your army has this ability (excluding Servitor units). At the start of the first battle rounds, choose which of the Tides if currently dominant. The dominant Tide can subsequently be changed using the Warp Shaping psychic power.</description>
+      <description>PSYKER units with this ability gain a bonus depending on which of the Tides of the Warp is dominant (see below). If you have a Battle-forged army, units only benefit from this bonus is every unit from your army has this ability (excluding Servitor units). At the start of the first battle rounds, choose which of the Tides if currently dominant. The dominant Tide can subsequently be changed using the Warp Shaping psychic power.</description>
     </rule>
   </sharedRules>
   <sharedProfiles>
